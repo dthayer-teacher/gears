@@ -9,11 +9,12 @@ input_torque = float(input("What is the input torque in Newton-Meters: "))
 bolt1 = float(input("Enter bolt hole pattern y-axis in meters: "))
 bolt2 = float(input("Enter bolt hole pattern z-axis in meters: "))
 
-
 # degree = 30
 # rad = degree*(math.pi/180)
 # print(math.sin(rad))
 # calculations
+
+
 
 
 mx = 0
