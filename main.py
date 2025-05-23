@@ -1,7 +1,6 @@
 
 import math
 
-
 r1 = float(input("Enter r1 in meters: "))
 r2 = float(input("Enter r2 in meters: "))
 
